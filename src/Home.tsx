@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import Rodal from "rodal";
 import "rodal/lib/rodal.css";
 import { apiCall } from "./apiCall";
